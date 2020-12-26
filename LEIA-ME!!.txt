@@ -1,0 +1,42 @@
+---------------------Patch por Raiden-------------------------------------
+Para ser aplicado na ISO da versão Europeia de Naruto Shippuden Ultimate Ninja 5.
+--------------------ID do Jogo: SLES_556.05 PAL------------------------------------
+---------------------
+Instruções:
+---------------------
+1.Abra o Xdelta(xdeltaui.exe)
+
+2.Na opção Patch procure e escolha o patch NSUN5 PATCH.xdelta que você baixou e extraiu.
+
+3.Em Souce File procure e escolha a ISO do jogo sem modificações.
+
+*MD5 da ISO Original:  9A383DED52147F8A3EFC632F9E352A4B  (Importante!)
+
+4.Em Output File escolha um nome para a nova ISO e coloque a terminação .iso (Importante!).
+
+5.Clique em Patch e espere concluir o processo e gerar a ISO modificada.
+
+6.Jogue e aproveite!!! 
+
+*Para verificar o MD5 da sua ISO,abra o aplicativo "MD5.exe"
+selecione a ISO original e clique em Calculate, e confira se o MD5 Digest
+é o mesmo do acima (Nota:tanto faz letra Maiúscula ou Minúscula no MD5). 
+
+-----------------------------------------------------------------
+Instruções ROM Patcher (Android APP):
+---------------------------------------
+1.Abra o APP, em Choose ROM escolha a ISO original sem modificações (lembrando do MD5 acima).
+
+2.Em Choose Patch escolha o patch .xdelta que você baixou.
+
+Deixe a opção Backup ROM marcada se quiser uma cópia da ISO.
+
+3.Toque em Patch e espere concluir, quando estiver pronto, jogue e aproveite!
+
+*Para verificar o MD5 da sua ISO no android, use o APP Gerador de Hash - Calculadora checksum e em File escolha sua iso, em função hash deixe MD5 e verifique se o MD5 da sua iso está correto. (Nota:tanto faz letra Maiúscula ou Minúscula no MD5)
+
+------------Página da Tradução no Facebook: facebook.com/naruto5br
+ Tradução por Meloolavio, Raiden e Edinho
+Favor não comercializar essa ISO!!!
+----------------------------------------------------------------------------------
+Patch Versão 7.0, Revisão Final
