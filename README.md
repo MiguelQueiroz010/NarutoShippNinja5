@@ -18,7 +18,7 @@ Tradutores------------------------------------------------
 -Raiden [Textos/Diálogos, Ponteiros, Texturas e Revisão]
 -Edinho [Texturas e Diálogos NPCS]
 
-Versão do Patch: FINAL 7.0
+#Versão Atual: 7.0
 
 Últimas correções:
 
@@ -28,3 +28,7 @@ Versão do Patch: FINAL 7.0
 *Mudanças em alguns diálogos e frases
 *Correção de erros em dicas
 *Etc.
+
+#Nos ajude!
+
+Quaisquer erros que encontrar na tradução nos envie na parte "Issues" (com print se possível ou foto nítida do erro).
