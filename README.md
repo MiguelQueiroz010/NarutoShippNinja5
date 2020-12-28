@@ -4,6 +4,8 @@ Patch de tradução para o jogo e modificações.
 
 ## TRADUÇÃO
 
+![](/image/BR.png)
+
 TEXTOS: 100% <br/>
 DIÁLOGOS(NPCS E ETC): 100% <br/>
 TEXTURAS: 100% <br/>
