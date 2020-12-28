@@ -13,7 +13,7 @@ REVISÃO: 99% <br/>
 
 ## Tradutores
 
-### *Meloolavio [Youtube](youtube.com/meloolavio) [Projeto, Textos e Texturas]<br/>
+### *Meloolavio [(Youtube)](https://www.youtube.com/meloolavio) [Projeto, Textos e Texturas]<br/>
 ### *Raiden [Textos/Diálogos, Ponteiros, Texturas e Revisão]<br/>
 ### *Edinho [Texturas e Diálogos NPCS]<br/>
 
